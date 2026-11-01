@@ -1,0 +1,3 @@
+*.bat -text
+*.md text eol=lf
+*.py text eol=lf
